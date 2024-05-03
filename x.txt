@@ -2,3 +2,7 @@ Olá mundo
 teste
 de
 diff
+2
+diff
+de
+arquivo
